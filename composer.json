@@ -1,0 +1,20 @@
+{
+  "name": "brisum/lib-file-uploader",
+  "description": "File Uploader",
+  "keywords": [
+    "file",
+    "uploader"
+  ],
+  "homepage": "https://github.com/brisum/php-lib-file-uploader",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Oleksandr Manchenko",
+      "email": "omanchenko@brisum.com",
+      "homepage": "http://brisum.com"
+    }
+  ],
+  "autoload": {
+    "classmap": ["src/FileUploader.php"]
+  }
+}
